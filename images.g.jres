@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQBAAEAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blank"
+    },
+    "image2": {
+        "data": "hwQPAA8AAAARERERERERAREREREREREBEREREREREQERERERERERAREREREREREBEREREREREQERERERERERAREREREREREBEREREREREQERERERERERAREREREREREBEREREREREQERERERERERAREREREREREBEREREREREQE=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "White"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
