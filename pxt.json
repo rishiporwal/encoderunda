@@ -2,8 +2,7 @@
     "name": "Encoder",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+        "device": "*"
     },
     "files": [
         "main.blocks",
@@ -11,7 +10,8 @@
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
